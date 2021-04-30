@@ -1,0 +1,6 @@
+scope - focus on animals
+interface
+objective
+to analyze to implement to
+make appointment manage appointment
+use case

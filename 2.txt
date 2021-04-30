@@ -1,0 +1,45 @@
+In your Windows search bar, type slui.exe to change product key
+
+Product key:
+N8BBC-P2RPM-HVMH9-J8277-YY49G
+
+If you have windows 7 or 8 installed, you will have to go to this link https://www.microsoft.com/en-gb/software-download/windows10 and use the media tool, to create USB or DVD and reinstall system to windows 10
+
+
+
+Office 365
+User: 40501@sgtech.live
+Password: Saj11063
+
+
+Download link : https://login.microsoftonline.com
+
+Install Office Video Instruction: https://bit.ly/33SEIel     
+
+After login , change to new password
+(please remember the password you set for first login purpose) . 
+
+Setup at least one of the authentication, you will need this if you forget your password in future.
+
+If you wish to install in your PC/Mac ↓↓↓
+- Once you logged you will able to see install office app at your top right side, click it to install office 365      
+- After installed, its auto activated. Thanks
+
+
+If you wish to install in your Tablet/Ipad/Mobile ↓↓↓
+- download the Office apps in your play store/app store
+- After installed, login to your account and its activated
+
+
+*Attention*: If your Microsoft Office is not 365 version, Please uninstall your current Microsoft Office and restart your pc before install our office 365.
+
+
+
+
+
+
+
+We felt sorry about that, there is some problem with the server account. We provide you an account from other server
+
+40490@sgtech.live	
+Dur02479

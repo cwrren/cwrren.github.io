@@ -1,0 +1,25 @@
+Office 365
+Username: 40592@sgtech.live
+Password: Jud08669
+
+
+Download link : https://login.microsoftonline.com
+
+Install Office Video Instruction: https://bit.ly/33SEIel     
+
+After login , change to new password
+(please remember the password you set for first login purpose) . 
+
+Setup at least one of the authentication, you will need this if you forget your password in future.
+
+If you wish to install in your PC/Mac ↓↓↓
+- Once you logged you will able to see install office app at your top right side, click it to install office 365      
+- After installed, login to activate. Thanks
+
+
+If you wish to install in your Tablet/Ipad/Mobile ↓↓↓
+- download the Office apps in your play store/app store
+- After installed, login to your account and its activated
+
+
+*Attention*: If your Microsoft Office is not 365 version, Please uninstall your current Microsoft Office and restart your pc before install our office 365.

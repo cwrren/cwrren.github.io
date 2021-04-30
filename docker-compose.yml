@@ -1,0 +1,12 @@
+version: '3.1'
+services:
+    nodered:
+        image: nodered/node-red-docker
+        container_name: noderedsecure
+        volumes:
+            -
+"./settings.js:/usr/src/node-red/node_modules/node-red/settings.js
+"
+    ports:
+        - "1880:1880"
+        - "1883:1883"
